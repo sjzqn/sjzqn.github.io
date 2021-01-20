@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://netfhx.com</id>
     <title>NETFHX</title>
-    <updated>2021-01-20T05:27:45.979Z</updated>
+    <updated>2021-01-20T09:22:39.276Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://netfhx.com"/>
     <link rel="self" href="https://netfhx.com/atom.xml"/>
@@ -10,35 +10,100 @@
     <icon>https://netfhx.com/favicon.ico</icon>
     <rights>All rights reserved 2021, NETFHX</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://netfhx.com/post/hello-gridea/</id>
-        <link href="https://netfhx.com/post/hello-gridea/">
+        <title type="html"><![CDATA[windows 常用最佳软件推荐]]></title>
+        <id>https://netfhx.com/post/windows/</id>
+        <link href="https://netfhx.com/post/windows/">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+        <updated>2020-12-10T07:12:35.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>windows</strong> 常用系统镜像和平台同类中的优质软件！<br>
+为避免选择困难，以下所有分类有且仅有一款软件，仅代表个人观点...</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+        <content type="html"><![CDATA[<p><strong>windows</strong> 常用系统镜像和平台同类中的优质软件！<br>
+为避免选择困难，以下所有分类有且仅有一款软件，仅代表个人观点...</p>
 <!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+<h2 id="windows系统">windows系统</h2>
+<p>windows官方系统镜像，复制ED2K、BT链接后使用迅雷下载。<br>
+Windows 10, Version 1909 简体中文消费者版64位<br>
+ed2k://|file|cn_windows_10_consumer_editions_version_1909_x64_dvd_76365bf8.iso|5381154816|6A56DE112B164EC054D1104C53F8F10B|/</p>
+<p>Windows 10, Version 1909 简体中文消费者版32位<br>
+ed2k://|file|cn_windows_10_consumer_editions_version_1909_x86_dvd_08dd0d3c.iso|3859558400|40991568D016CCBAEE1E67CD38FAABE8|/</p>
+<p>Windows 10 简体中文企业版2019长期服务版64位<br>
+ed2k://|file|cn_windows_10_enterprise_ltsc_2019_x64_dvd_9c09ff24.iso|4478906368|E7C526499308841A4A6D116C857DB669|/</p>
+<p>Windows 10 简体中文企业版2019长期服务版32位<br>
+ed2k://|file|cn_windows_10_enterprise_ltsc_2019_x86_dvd_1814dbab.iso|3196803072|2D39C54A2E99BAC308191C74A15B3237|/</p>
+<p>Windows 10 简体中文企业版2016长期服务版64位<br>
+ed2k://|file|cn_windows_10_enterprise_2016_ltsb_x64_dvd_9060409.iso|3821895680|FF17FF2D5919E3A560151BBC11C399D1|/</p>
+<p>Windows 10 简体中文企业版2016长期服务版32位<br>
+ed2k://|file|cn_windows_10_enterprise_2016_ltsb_x86_dvd_9057089.iso|2817034240|67C3865D03E765BDD4845BA2CB7649F8|/</p>
+<p>Windows 7 With SP1 简体中文旗舰版64位<br>
+ed2k://|file|cn_windows_7_ultimate_with_sp1_x64_dvd_u_677408.iso|3420557312|B58548681854236C7939003B583A8078|/</p>
+<p>Windows 7 With SP1 简体中文旗舰版32位<br>
+ed2k://|file|cn_windows_7_ultimate_with_sp1_x86_dvd_u_677486.iso|2653276160|7503E4B9B8738DFCB95872445C72AEFB|/</p>
+<p>Windows XP SP3 简体中文专业版<br>
+ed2k://|file|zh-hans_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74070.iso|630237184|EC51916C9D9B8B931195EE0D6EE9B40E|/</p>
+<h2 id="常用最佳软件">常用最佳软件</h2>
+<p>浏览器<br>
+Google Chrome 浏览器<br>
+特别推荐，个人认为最好的浏览器没有之一，兼容性是最好的。同步功能也非常好用，多平台或者多台电脑使用俱佳。</p>
+<p>影音播放器<br>
+PotPlayer<br>
+特别推荐，个人认为最简单好用的本地视频播放器，民间皮肤丰富多样，总有你喜欢的风格。</p>
+<p>下载工具<br>
+IDM<br>
+Internet Download Manager 必备最佳网络下载利器，网页嗅探高速下载无所不能，缺点是不能下载磁力和种子</p>
+<p>迅雷X版<br>
+迅雷X版于2018年6月推出，X版全面升级界面、框架、下载引擎、选项设置、对相关下载信息进行强化。</p>
+<p>办公工具<br>
+WPS Office<br>
+WPS Office, 永久的免费办公专家，绿色便携版是网友制作去除了联网功能，专注于办公，变得更加好用</p>
+<p>Office 2010<br>
+Office绿色精简版全套系列，由xb21cn专注绿化精简制作，包含几大常用组件，支持自动激活，适合日常使用</p>
+<p>万兴PDF专家<br>
+一款国产PDF全套解决方案专家，专注于PDF的创建、编辑、转换、标注、保护、管理、水印、压缩、签名等功能。</p>
+<p>即时通讯<br>
+腾讯 TIM<br>
+轻聊的 QQ：风格简约，QQ 好友，消息无缝同步。 界面干净简洁、操作上轻量易用、都能看出 TIM 想营造一个纯粹的办公环境。</p>
+<p>远程控制<br>
+AnyDesk<br>
+AnyDesk 是一款号称速度最快的免费远程连接 / 远程桌面控制软件 实测在双方同等网络情况下，是 QQ 的 N 倍</p>
+<p>文本编辑器<br>
+Notepad++<br>
+推荐用其替代系统自带的记事本，一款强大的轻量级开源文本编辑器，支持大部分主流语言的语法高亮显示。支持插件众多。</p>
+<p>压缩工具<br>
+WinRAR</p>
+<p>格式转换工具<br>
+格式工厂<br>
+格式工厂，转换格式用格式工厂很简单便捷。一般碰到有喜欢的视频如果想转换成网页可以播放的视频格式，并且支持影音剪辑、压缩等多功能操作。</p>
+<p>系统安全<br>
+火绒安全<br>
+电脑是否中毒和使用习惯有关。安全软件最大的作用并不是杀毒，而是给你一个安心。让你可以无所顾忌的去玩耍。</p>
+<p>Windows实用工具<br>
+Dism++<br>
+Dism++，最强的Windows实用工具，系统补丁更新工具，系统精简工具，系统优化工具。</p>
+<p>Adobe Flash Player<br>
+Adobe® Flash® Player控件一直是Windows系统必装的浏览器网页视频播放支持插件，现在视频网站已经逐步支持HTML5。</p>
+<p>阅读器<br>
+Calibre 阅读器<br>
+Calibre 是一个免费的电子图书阅读器，包括图书馆管理，格式转换，新闻，将材料转换为电子书，以及电子书阅读器同步功能</p>
+<p>搜索工具<br>
+Everything<br>
+Everything 是速度最快的文件名搜索工具，其速度之快令人震惊，文件名搜索瞬间呈现结果</p>
+<p>屏幕录制工具<br>
+Bandicam<br>
+Bandicam，游戏录制神器，视频录制利器，高清频录制专家，号称世界三大视频录制神器之一</p>
+<p>图片处理<br>
+photoshop cc<br>
+Adobe Photoshop CC 依然是数字图象处理和编辑的业界标准，提供广泛的专业级润饰工具套件，并集成了专为激发灵感而设计的强大编辑功能</p>
+<p>FTP 工具<br>
+FlashFXP<br>
+FlashFxp – 老牌 FTP/FXP 传输必备软件，功能强大最常用的 FTP，FXP，FTPS，SFTP 上传下载必备工具，它可以快速部署和维护用户网站</p>
+<p>输入法<br>
+搜狗输入法<br>
+搜狗拼音输入法是装机必备软件，其打字准、词库全、功能强大、使得输入更高效</p>
+<p>微软运行库合集<br>
+比如 QQ、一些大型游戏等提示需要安装 vc 运行库，这个合集提供了所有版本的运行库，直接安装即可解决问题。</p>
+<p>常用软件下载链接：<a href="https://wwa.lanzous.com/b0beb5oof">https://wwa.lanzous.com/b0beb5oof</a><br>
+数据均来自于互联网搜集，如有侵犯您的权利，请联系删除。</p>
 ]]></content>
     </entry>
 </feed>
