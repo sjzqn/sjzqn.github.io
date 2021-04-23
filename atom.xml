@@ -2,10 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sjzqn.github.io</id>
     <title>石家庄青年</title>
-    <updated>2021-02-02T11:57:52.410Z</updated>
+    <updated>2021-04-23T12:52:26.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sjzqn.github.io"/>
     <link rel="self" href="https://sjzqn.github.io/atom.xml"/>
+    <subtitle>年轻人，席地而坐</subtitle>
     <logo>https://sjzqn.github.io/images/avatar.png</logo>
     <icon>https://sjzqn.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 石家庄青年</rights>
@@ -23,36 +24,36 @@
 <!-- more -->
 <figure data-type="image" tabindex="1"><img src="https://sjzqn.github.io/post-images/1611716426602.png" alt="" loading="lazy"></figure>
 <h2 id="人才">人才</h2>
-<p><a href="https://sjzqn.net/">石家庄青年网</a><br>
-<a href="https://site.douban.com/306720/">石家庄青年交流网</a><br>
-<a href="http://110.249.147.68:8088/RclkWeb/Login_LK/htm/login.html">石家庄人才绿卡申请网</a><br>
-<a href="http://110.249.147.68:8088/RclkWeb/Login_LK/htm/contentlist.html?type=gggs">石家庄人才绿卡公示网</a><br>
-<a href="https://sjz.appms.cn/KaoSheng/64285/userhtml/indexkaoshi.html">石家庄人事考试网</a><br>
-<a href="http://www.hebpta.com.cn/hebpta/">河北省人事考试网</a><br>
-<a href="http://rclk.yinetsoft.cn:8001/second/index.html">石家庄人才绿卡服务指南网</a></p>
+<p><a href="https://sjzqn.net/">石家庄青年网</a></p>
+<p><a href="https://site.douban.com/306720/">石家庄青年豆瓣小站</a></p>
+<p><a href="http://110.249.147.68:8088/RclkWeb/Login_LK/htm/login.html">石家庄人才绿卡申请网</a></p>
+<p><a href="http://110.249.147.68:8088/RclkWeb/Login_LK/htm/contentlist.html?type=gggs">石家庄人才绿卡公示网</a></p>
+<p><a href="https://sjz.appms.cn/KaoSheng/64285/userhtml/indexkaoshi.html">石家庄人事考试网</a></p>
+<p><a href="http://www.hebpta.com.cn/hebpta/">河北省人事考试网</a></p>
+<p><a href="http://rclk.yinetsoft.cn:8001/second/index.html">石家庄人才绿卡服务指南网</a></p>
 <h2 id="工作">工作</h2>
-<p><a href="http://www.sjzgjj.cn/wt-web-gr/grlogin">石家庄公积金管理中心网</a><br>
-<a href="https://grsbcx.sjz12333.net/login.do?method=begin">石家庄社会保险中心网</a><br>
-<a href="https://www.sjz12333.net/si/pages/zcore/zcore.jsp?page=zckscxlist&amp;cs=html">石家庄职称查询网</a><br>
-<a href="http://www.hbzwfw.gov.cn/hbzw/threesxcx/itemList/gr_index.do?webId=2&amp;zt=07&amp;deptid=">石家庄政务服务网</a><br>
-<a href="http://110.249.254.68:8889/hfpt/">石家庄保障房互换网</a><br>
-<a href="http://zjj.sjz.gov.cn/plus/list.php?tid=107">石家庄住房保障公示网</a></p>
+<p><a href="http://www.sjzgjj.cn/wt-web-gr/grlogin">石家庄公积金管理中心网</a></p>
+<p><a href="https://grsbcx.sjz12333.net/login.do?method=begin">石家庄社会保险中心网</a></p>
+<p><a href="https://www.sjz12333.net/si/pages/zcore/zcore.jsp?page=zckscxlist&amp;cs=html">石家庄职称查询网</a></p>
+<p><a href="http://www.hbzwfw.gov.cn/hbzw/threesxcx/itemList/gr_index.do?webId=2&amp;zt=07&amp;deptid=">石家庄政务服务网</a></p>
+<p><a href="http://110.249.254.68:8889/hfpt/">石家庄保障房互换网</a></p>
+<p><a href="http://zjj.sjz.gov.cn/plus/list.php?tid=107">石家庄住房保障公示网</a></p>
 <h2 id="学习">学习</h2>
-<p><a href="https://my.chsi.com.cn/archive/index.jsp">学信档案网</a><br>
-<a href="https://www.chinadegrees.cn/">中国学位网</a><br>
-<a href="https://www.icourse163.org/">中国大学mooc网</a><br>
-<a href="https://www.cnki.net/">中国知网</a><br>
-<a href="https://yz.chsi.com.cn/">研究生招生信息网</a></p>
+<p><a href="https://my.chsi.com.cn/archive/index.jsp">学信档案网</a></p>
+<p><a href="https://www.chinadegrees.cn/">中国学位网</a></p>
+<p><a href="https://www.icourse163.org/">中国大学mooc网</a></p>
+<p><a href="https://www.cnki.net/">中国知网</a></p>
+<p><a href="https://yz.chsi.com.cn/">研究生招生信息网</a></p>
 <h2 id="其他">其他</h2>
-<p><a href="https://sjz.ke.com/">贝壳网-买房</a><br>
-<a href="https://www.zhihu.com/">知乎网-问答</a><br>
-<a href="https://www.douban.com/">豆瓣网-书影音</a><br>
-<a href="https://www.ikea.cn/cn/zh/">宜家家居-居家</a><br>
-<a href="https://www.amazon.cn/Kindle%E7%94%B5%E5%AD%90%E4%B9%A6/b?ie=UTF8&amp;node=116169071&amp;ref_=nav_topnav_giftcert">Kindle电子书-读书</a><br>
-<a href="https://music.163.com/">网易云音乐-听音乐</a><br>
-<a href="https://mp.weixin.qq.com/">微信公众平台-创作</a><br>
-<a href="https://www.bilibili.com/">哔哩哔哩-看剧</a></p>
-<p>本文作者：王X 数据均来自于互联网搜集，如有侵犯您的权利，请联系删除。</p>
+<p><a href="https://sjz.ke.com/">贝壳网-买房</a></p>
+<p><a href="https://www.zhihu.com/">知乎网-问答</a></p>
+<p><a href="https://www.douban.com/">豆瓣网-书影音</a></p>
+<p><a href="https://www.ikea.cn/cn/zh/">宜家家居-居家</a></p>
+<p><a href="https://www.amazon.cn/Kindle%E7%94%B5%E5%AD%90%E4%B9%A6/b?ie=UTF8&amp;node=116169071&amp;ref_=nav_topnav_giftcert">Kindle电子书-读书</a></p>
+<p><a href="https://music.163.com/">网易云音乐-听音乐</a></p>
+<p><a href="https://mp.weixin.qq.com/">微信公众平台-创作</a></p>
+<p><a href="https://www.bilibili.com/">哔哩哔哩-看剧</a></p>
+<p>数据均来自于互联网搜集，如有侵犯您的权利，请联系删除。</p>
 ]]></content>
     </entry>
     <entry>
@@ -98,8 +99,8 @@
 <p>申请材料：人才公寓申请表、申请人及配偶的身份证、人才绿卡、学历证书等，受理部门市、区县人社局0311-86689142。人才公寓原则上只租不售，租金标准按照公共租赁住房租金标准执行。</p>
 <h2 id="人才交流">人才交流</h2>
 <p>石家庄青年保持人才交流初心和小众公益形式，为大家提供石家庄招才引智人才资讯、合作同好交流，连结一个属于我们的 “朋友圈”智库。我们有一个情结，和大家互相帮衬着让更多有意思的事发生，也希望为彼此生活增添几分耀眼和温情。欢迎加入石家庄青年人才引进交流社群。点点滴滴，枝叶关情。</p>
-<p><a href="https://wwa.lanzous.com/b0bej00yj">点击进入人才绿卡常用表单下载</a><br>
-本文作者：王X 数据均来自于互联网搜集，如有侵犯您的权利，请联系删除。</p>
+<p><a href="https://wwa.lanzous.com/b0bej00yj">点击进入人才绿卡常用表单下载</a></p>
+<p>数据均来自于互联网搜集，如有侵犯您的权利，请联系删除。</p>
 ]]></content>
     </entry>
     <entry>
@@ -196,8 +197,8 @@ FlashFxp – 老牌 FTP/FXP 传输必备软件，功能强大最常用的 FTP，
 搜狗拼音输入法是装机必备软件，其打字准、词库全、功能强大、使得输入更高效</p>
 <p>微软运行库合集<br>
 比如 QQ、一些大型游戏等提示需要安装 vc 运行库，这个合集提供了所有版本的运行库，直接安装即可解决问题。</p>
-<p><a href="https://wwa.lanzous.com/b0beb5oof">点击进入常用软件下载</a><br>
-本文作者：王X 数据均来自于互联网搜集，如有侵犯您的权利，请联系删除。</p>
+<p><a href="https://wwa.lanzous.com/b0beb5oof">点击进入常用软件下载</a></p>
+<p>数据均来自于互联网搜集，如有侵犯您的权利，请联系删除。</p>
 ]]></content>
     </entry>
 </feed>
